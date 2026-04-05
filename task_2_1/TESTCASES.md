@@ -1,4 +1,4 @@
-# Тест-кейсы API микросервиса объявлений
+# Тест-кейсы 
 
 **Host:** `https://qa-internship.avito.com`
 
